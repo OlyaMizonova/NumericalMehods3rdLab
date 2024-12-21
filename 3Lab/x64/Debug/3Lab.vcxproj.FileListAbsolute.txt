@@ -1,0 +1,3 @@
+D:\study\chisl\3Lab\3Lab\x64\Debug\3Lab.vcxproj.AssemblyReference.cache
+D:\study\chisl\3Lab\3Lab\x64\Debug\My3Lab.MyForm.resources
+D:\study\chisl\3Lab\3Lab\x64\Debug\3Lab.vcxproj.GenerateResource.cache
